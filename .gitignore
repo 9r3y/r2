@@ -32,3 +32,14 @@
 Makefile
 CMakeFiles
 CMakeCache.txt
+
+*.log
+.cproject
+.project
+.classpath
+.metadata
+bin/
+debug/
+release/
+lib/
+build/
